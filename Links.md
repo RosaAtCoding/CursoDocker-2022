@@ -5,3 +5,7 @@
 - [Docker](https://www.docker.com/)
 
 - [Docker Hub](https://hub.docker.com/)
+
+- [Open Container Initiative](https://opencontainers.org/)
+
+- [Cloud Native Computing Foundation](https://www.cncf.io/)
